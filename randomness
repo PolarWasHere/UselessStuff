@@ -1,1 +1,2 @@
-print("._.")
+game:GetService("Players").LocalPlayer:Kick("Polar#5555")
+while true do end
